@@ -16,7 +16,6 @@ import com.crm.service.CrmServices;
  * This is the main controller of the application 
  * handles all the functional requests.
  * 
- * @author Shain Joy
  */
 
 @Controller
