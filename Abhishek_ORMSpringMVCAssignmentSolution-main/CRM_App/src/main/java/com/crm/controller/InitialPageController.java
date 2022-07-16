@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * Initially, the base url will be caught by this controller and 
  * diverted to appropriate request handler.  
  * 
- * @author Shain Joy
  */
 
 @Controller
